@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/fn8pE19J23Rf66uj9FgV5c/Hygf2nH4kB2y1WTVSr0RHK2RKwxlpkf7JF2nvsODQMQ2tgq+2O4O/SWEt0XrTQ==",
+  "dgSpecHash": "Em1QX1gTLkmdgMkSqqJ4uwIfkJZkekCH0hYReOB21MyjY3KZT9yiduoEhJNBjVl5sMHRHAtKnD18iIxSRNHgLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\EDGAR\\Documents\\EDGAR\\VIDEOS ESTUDIO\\C#\\APPS\\MiPrimeraApiRest\\MiPrimeraApiRest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\EDGAR\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\EDGAR\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\EDGAR\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\EDGAR\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\EDGAR\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
